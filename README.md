@@ -12,7 +12,7 @@ To gain a holistic understanding of the data, I followed below steps.
 
 #### Finally, leveraging the refined dataset, we crafted a visually appealing and user-friendly dashboard. The dashboard serves as a one-stop solution, enabling the CEO to effortlessly grasp the overall sales performance, identify the top-selling products, and discern key customer trends. By presenting the company's sales data in a clear and intuitive format, the dashboard facilitates data-driven decision-making.
 
-Throughout the project, our focus remained on providing an easily digestible and actionable representation of the overseas product sales data. By employing advanced Excel functions, data manipulation techniques, and visualization principles, we aimed to empower the CEO with valuable insights and a comprehensive overview of the company's sales performance.
+Throughout the project, our focus remained on providing an easily digestible and actionable representation of the overseas product sales data. By employing advanced Excel functions, data manipulation techniques, and visualization principles, we aimed to empower the CEO with valuable insights and a comprehensive overview of the company's sales performance and show that *we are making most sales during 1st Quarter of year*.
 
 Should you have any further questions or require additional information, please do not hesitate to reach out. I'm excited to share the completed dashboard and eager to receive your feedback.
 
